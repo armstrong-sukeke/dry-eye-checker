@@ -1,4 +1,4 @@
-# Dry eye Checker
+# Dry Eye Checker
 
 Measure the number of blinks and notify to prevent dry eye.
 
