@@ -16,14 +16,6 @@ If there is little blinking (~ 10 times / minute), there is a risk of dry eye, a
 
 In this project, Jetson nano will be used to measure the number of blinks per minute and notify of danger.
 
-長時間のPC作業によってドライアイに悩む人々が増えている。
-2018年の時点で世界で3.4億人がドライアイと言われている。
-
-まばたきが少ない場合（~10回/分）はドライアイになる危険があり、まばたきが多い場合（40~回/分）は既にドライアイの可能性がある。
-
-このプロジェクトではJetson nanoを用いて1分あたりのまばたき回数の計測と、危険の通知を行う。
-
-
 <br>
 
 
