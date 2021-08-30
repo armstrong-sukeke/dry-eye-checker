@@ -37,7 +37,7 @@ In this project, Jetson nano will be used to measure the number of blinks per mi
 
     $ cd /home/nvidia
     $ git clone https://github.com/armstrong-sukeke/dry-eye-checker.git
-    
+
 2.Allow display connection from container to host
 
     $ xhost +
@@ -51,10 +51,11 @@ In this project, Jetson nano will be used to measure the number of blinks per mi
 
         $ chmod +x docker_blink_run.sh
 
-4.Setup in a container
+4.Setup in the container(50min)
 
     $ cd shared_data
     $ bash setup.sh
+    
 
 
 <br>
@@ -64,5 +65,6 @@ After *Install* in container,
 
     $ python3 blink_measurement.py
 
+You can permanently measure blinks [times / min].
 
 <br>
