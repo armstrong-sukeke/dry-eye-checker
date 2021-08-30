@@ -63,6 +63,7 @@ In this project, Jetson nano will be used to measure the number of blinks per mi
 ## Usage
 After *Install* in container,
 
+    $ cd shared_data
     $ python3 blink_measurement.py
 
 You can permanently measure blinks [times / min].

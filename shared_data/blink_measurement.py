@@ -32,8 +32,8 @@ def blink_detect():
     cap.set(cv2.CAP_PROP_FRAME_HEIGHT, HEIGHT)
     cap.set(cv2.CAP_PROP_FPS, FPS)
 
-    face_cascade = cv2.CascadeClassifier('shared_data/haarcascade_frontalface_alt2.xml')
-    face_parts_detector = dlib.shape_predictor('shared_data/shape_predictor_68_face_landmarks.dat')
+    face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_alt2.xml')
+    face_parts_detector = dlib.shape_predictor('shape_predictor_68_face_landmarks.dat')
 
     blink_list = [0] * (FPS * 60) # frame/min
 
