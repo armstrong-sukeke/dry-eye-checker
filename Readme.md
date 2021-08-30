@@ -35,13 +35,14 @@ In this project, Jetson nano will be used to measure the number of blinks per mi
 ## Install
 1.Clone this repository.
 
-    $ git clone ...(this repository)
+    $ git clone https://github.com/armstrong-sukeke/dry-eye-checker.git
 2.Allow display connection from container to host
 
     $ xhost +
 
 3.Run docker container
 
+    $ cd dry-eye-checker
     $ bash docker_blink_run.sh
 
 - If the .sh file cannot be executed, execute the following.
