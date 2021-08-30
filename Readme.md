@@ -22,7 +22,9 @@ In this project, Jetson nano will be used to measure the number of blinks per mi
 
 
 ## Demo
-(movie)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/kQxYPSaJ-jE/0.jpg)](http://www.youtube.com/watch?v=kQxYPSaJ-jE)
+
+https://www.youtube.com/watch?v=kQxYPSaJ-jE
 
 <br>
 
