@@ -16,6 +16,8 @@ If there is little blinking (~ 10 times / minute), there is a risk of dry eye, a
 
 In this project, Jetson nano will be used to measure the number of blinks per minute and notify of danger.
 
+![](https://github.com/armstrong-sukeke/dry-eye-checker/blob/main/image/dry-eye-description.png)
+
 <br>
 
 
