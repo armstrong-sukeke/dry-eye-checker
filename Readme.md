@@ -35,7 +35,9 @@ In this project, Jetson nano will be used to measure the number of blinks per mi
 ## Install
 1.Clone this repository.
 
+    $ cd /home/nvidia
     $ git clone https://github.com/armstrong-sukeke/dry-eye-checker.git
+    
 2.Allow display connection from container to host
 
     $ xhost +
